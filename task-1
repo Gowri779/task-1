@@ -1,0 +1,23 @@
+Company: COOTECH IT SOLUTIONS
+
+ID: CT08RHD
+
+Domain: mechine learing
+Duration: february 5th to march 5th 2025
+
+Mentor: SRAVANI GOUNI
+
+
+Overview of the Project
+This task involves developing a Decision Tree model using Scikit-Learn, a popular machine learning library in Python. The primary goal is to classify or predict outcomes based on patterns found in a chosen dataset. The process includes several key steps, from data preprocessing to model evaluation and visualization.
+
+Key Steps Involved:
+Dataset Selection & Preprocessing
+
+Choose an appropriate dataset (e.g., Titanic survival, Iris dataset, or a custom dataset).
+Load the dataset using pandas and explore its structure.
+Handle missing values, encode categorical variables, and normalize/scale numerical features.
+Splitting Data for Training & Testing
+
+Split the dataset into training and testing sets to evaluate model performance
+
